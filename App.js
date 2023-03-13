@@ -66,7 +66,7 @@ function MyTabs() {
           tabBarIcon: ({ color }) => (
             <MaterialCommunityIcons name="account" color={color} size={26} />
           ),
-        }}
+        }} 
       />
     </Tab.Navigator>
   );
