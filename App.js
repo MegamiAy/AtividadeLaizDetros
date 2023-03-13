@@ -7,7 +7,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 function Feed() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Feed!</Text>
+      <Text>Sei lá, to com sono!</Text>
     </View>
   );
 }
@@ -15,7 +15,7 @@ function Feed() {
 function Profile() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Profile!</Text>
+      <Text>Página para perfil!</Text>
     </View>
   );
 }
@@ -23,7 +23,7 @@ function Profile() {
 function Notifications() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Notifications!</Text>
+      <Text>Notificações novas do aplicativo!</Text>
     </View>
   );
 } 
