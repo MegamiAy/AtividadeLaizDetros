@@ -26,7 +26,7 @@ function Notifications() {
       <Text>Notifications!</Text>
     </View>
   );
-}
+} 
 
 const Tab = createMaterialBottomTabNavigator();
 
